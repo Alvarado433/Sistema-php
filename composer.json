@@ -1,0 +1,20 @@
+{
+    "name": "alvarado433/sistema-php",
+    "description": "Projeto desenvolvido com php ,mysql e subido no github",
+    "type": "project",
+    "version": "1.0.0",
+    "require": {
+        "php": "8.2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sistema\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rhaian Alvarado",
+            "email": "alvaradorhaian766@gmail.com"
+        }
+    ]
+}
