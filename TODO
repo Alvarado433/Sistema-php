@@ -4,8 +4,8 @@ configuraçao github:
   ✔ inicializar um repositorio no github @done(24-08-04 00:25)
   ✔ usar o terminal para adiconar o repositorio do github no visual studio code @done(24-08-04 00:26)
 
-Projeto Web:
+configuraçao inicial:
   ✔ subir o planejamento do projeto (TODO) no github @done(24-08-04 00:28)
-  ☐ Levantar requisitos nao funcionais do sistema
-  ☐ Levantar requisitos funcionais do sistema
-  ☐ Criar Estrutura do sistema
+  ✔ criar o gitignore @done(24-08-04 00:38)
+  ✔ Criar o composer.json @started(24-08-04 00:38) @done(24-08-04 00:42) @lasted(4m40s)
+  ✔ editar o composer.json e subir no gitignore @done(24-08-04 00:43)
