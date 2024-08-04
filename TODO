@@ -1,4 +1,11 @@
+configuraçao github:
+  ✔ baixar o git bash no windows 10 @done(24-08-04 00:25)
+  ✔ configurar usuario,nome e email no git bash @done(24-08-04 00:28)
+  ✔ inicializar um repositorio no github @done(24-08-04 00:25)
+  ✔ usar o terminal para adiconar o repositorio do github no visual studio code @done(24-08-04 00:26)
+
 Projeto Web:
+  ✔ subir o planejamento do projeto (TODO) no github @done(24-08-04 00:28)
   ☐ Levantar requisitos nao funcionais do sistema
   ☐ Levantar requisitos funcionais do sistema
   ☐ Criar Estrutura do sistema
