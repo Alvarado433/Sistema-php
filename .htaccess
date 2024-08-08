@@ -1,0 +1,8 @@
+Options  -Indexes
+
+# Habilita o reescritor de URL apenas para o diretório src/public
+RewriteEngine On
+RewriteRule ^public/ - [L]
+
+# Redireciona todas as outras requisições para a pasta public
+RewriteRule ^(.*)$ public/$1 [L]
